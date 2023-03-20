@@ -1,5 +1,5 @@
 
-public class DoublyLinkedListCharTesting {
+public class DoublyLinkedListTesting {
 
     public static void main(String[] args) {
         testInteger();
